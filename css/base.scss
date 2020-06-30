@@ -1,0 +1,116 @@
+---
+---
+/* --- Variables --- */
+$text-font: 'Noto Sans', sans-serif;
+$title-font: 'Noto Serif', serif;
+
+$primary-color: #333;
+$secondary-color: rgb(64, 143, 167);
+
+html {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  padding-bottom: 10em;
+  margin: 0 1.5em;
+  color: $primary-color;
+  font-family: $text-font;
+}
+
+a {
+  text-decoration: none;
+  color: $secondary-color;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-family: $title-font;
+    margin-bottom: 0;
+  }
+}
+
+p{
+  margin-top: 0;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.2em;
+}
+
+table {
+  min-width: 50%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #aaa;
+  padding: .3em;
+}
+
+/* --- Masthead --- */
+.Masthead {
+  text-align: center;
+  border-bottom: 1px solid $primary-color;
+  padding: 1em;
+  background: white;
+
+  &Logo {
+    margin: 0;
+  }
+  &Nav{
+    &-Item{
+      margin: 0 .5em;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+/* --- Post --- */
+.Post {
+  &Date {
+    font-size: .5em;
+    float: right;
+    margin-top: 1em;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    width: 40em;
+    max-width: 80vw;
+    margin: 0 auto;
+  }
+}
+
+.BottomLine{
+  width: 1em;
+  margin: 2em auto;
+}
+
+/* --- PostNav --- */
+.PostNav{
+  display: flex;
+  justify-content: space-between;
+}

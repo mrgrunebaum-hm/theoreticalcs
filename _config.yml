@@ -1,0 +1,11 @@
+title: Art of Data
+email: lester_lee@horacemann.org
+description: >-
+  This is the class website for Art of Data.
+#Site settings
+excerpt_length: 55
+
+#Build settings
+markdown: kramdown
+permalink: pretty
+future: true
