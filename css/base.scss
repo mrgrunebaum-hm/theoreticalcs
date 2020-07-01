@@ -5,7 +5,7 @@ $text-font: 'Noto Sans', sans-serif;
 $title-font: 'Noto Serif', serif;
 
 $primary-color: #333;
-$secondary-color: rgb(64, 143, 167);
+$secondary-color: rgb(30, 156, 156);
 
 html {
   box-sizing: border-box;
@@ -67,6 +67,22 @@ th, td {
   padding: .3em;
 }
 
+li li {
+  list-style-type: lower-alpha;
+}
+
+li li li {
+  list-style-type: lower-roman;
+}
+
+code {
+  font-size: 1.2em;
+  color: #fff;
+  background: rgba($color: #000000, $alpha: 0.7);
+  padding: 2px;
+  border-radius: 3px;
+}
+
 /* --- Masthead --- */
 .Masthead {
   text-align: center;
@@ -86,6 +102,7 @@ th, td {
     }
   }
 }
+
 
 /* --- Post --- */
 .Post {

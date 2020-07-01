@@ -5,6 +5,8 @@ description: >-
 #Site settings
 excerpt_length: 55
 
+include: ['units']
+
 #Build settings
 markdown: kramdown
 permalink: pretty
