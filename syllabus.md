@@ -17,9 +17,11 @@ Though homework is not factored into your semester grade, you will receive feedb
 Readings will be given to supplement the course material. Each reading will include a written response, as well as participation in an in-class discussion. These will be graded on a similar 0-4 scale, details of which will be provided for each discussion.
 
 # Assessments
-Assessments will only ever cover what you have done for homework, and what we have done together in class. There are no corrections, except for extenuating circumstances discussed between us and your grade dean.
+Quizzes will only ever cover what you have done for homework, and what we have done together in class. They will be given in the middle of each unit.
 
-Quizzes will be given in the middle of each unit. Labs will be given at the end of each unit. Details will be provided when these assessments are given.
+Labs assess whether you can take everything you've learned so far and put it together, often in the format of a longer programming assignment and a corresponding write-up. Labs will be given at the end of each unit. Details will be provided when these assessments are given.
+
+There are no corrections, except for extenuating circumstances discussed between us and your grade dean.
 
 # Academic Honesty
 Any submitted work by a student should be their own, unless students are collaborating on a group assignment, in which case the work submitted should be a reflection of equal effort of all students involved. Collaboration is encouraged. Feel free to talk with other students! However, during these discussions, _do not write down_ any solutions. Students must always note whom they worked with. Failure to do so will result in an integrity penalty.
@@ -28,8 +30,8 @@ Any form of cheating will result in a **failing grade** and the student’s advi
 
 
 # Semester Grade
-  - Quizzes: 40%
-  - Labs: 40%
+  - Quizzes: 30%
+  - Labs: 50%
   - Discussions: 20%
 
 |Percentage|<59|60-69|70-72|73-76|77-79|80-82|83-86|87-89|90-92|93-97|98+|

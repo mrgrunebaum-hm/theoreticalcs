@@ -5,7 +5,7 @@ $text-font: 'Noto Sans', sans-serif;
 $title-font: 'Noto Serif', serif;
 
 $primary-color: #333;
-$secondary-color: rgb(30, 156, 156);
+$secondary-color: rgb(46, 150, 150);
 
 html {
   box-sizing: border-box;
@@ -26,6 +26,9 @@ body {
 a {
   text-decoration: none;
   color: $secondary-color;
+  &:hover{
+    text-decoration: underline;
+  }
 }
 
 pre {

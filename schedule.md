@@ -7,7 +7,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
 
 ## Unit 1: Getting Started
   1. [Setting up the Environment]({{site.baseurl}}/units/01/01/)
-  2. [Terminal, Git, Python]({{site.baseurl}}/units/01/02/)
+  2. [Terminal and Git]({{site.baseurl}}/units/01/02/)
   3. [Reading and Writing Files with Python]({{site.baseurl}}/units/01/03/)
      1. QUIZ
      2. DISCUSSION
