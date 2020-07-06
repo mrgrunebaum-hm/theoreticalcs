@@ -1,8 +1,11 @@
 ---
 ---
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
+
 /* --- Variables --- */
 $text-font: 'Noto Sans', sans-serif;
 $title-font: 'Noto Serif', serif;
+$mono-font: 'Fira Code', monospace;
 
 $primary-color: #333;
 $secondary-color: rgb(46, 150, 150);
@@ -79,11 +82,11 @@ li li li {
 }
 
 code {
-  font-size: 1.2em;
+  font-family: 'Fira Code';
   color: #fff;
   background: rgba($color: #000000, $alpha: 0.7);
-  padding: 2px;
-  border-radius: 3px;
+  padding: 0 2px;
+  border-radius: 2px;
 }
 
 /* --- Masthead --- */
