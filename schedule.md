@@ -8,10 +8,10 @@ This schedule will be accurate up until the end of the current subunit. Anything
 ## Unit 1: Getting Started
   1. [Setting up the Environment]({{site.baseurl}}/units/01/01/)
   2. [Terminal and Git]({{site.baseurl}}/units/01/02/)
-     1. [QUIZ checklist]({{site.baseurl}}/units/01/quiz/)
+     1. QUIZ on Terminal, Git, Markdown
   3. [Python]({{site.baseurl}}/units/01/03/)
      2. DISCUSSION
-  4. [LAB: Python Program]({{site.baseurl}}/units/01/04/)
+  4. [Iris Lab]({{site.baseurl}}/units/01/04/)
 
 ## Unit 2: Finding and Storing Data
   1. [Introduction to Data and its Limitations]({{site.baseurl}}/units/02/01/)
