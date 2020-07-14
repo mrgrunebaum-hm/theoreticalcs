@@ -21,6 +21,8 @@ Quizzes will only ever cover what you have done for homework, and what we have d
 
 Labs assess whether you can take everything you've learned so far and put it together, often in the format of a longer programming assignment and a corresponding write-up. Labs will be given at the end of each unit. Details will be provided when these assessments are given.
 
+These will be assigned **letter grades**.
+
 There are no corrections, except for extenuating circumstances discussed between us and your grade dean.
 
 # Academic Honesty
@@ -33,7 +35,3 @@ Any form of cheating will result in a **failing grade** and the student’s advi
   - Quizzes: 30%
   - Labs: 50%
   - Discussions: 20%
-
-|Percentage|<59|60-69|70-72|73-76|77-79|80-82|83-86|87-89|90-92|93-97|98+|
-|Grade|F|D|C-|C|C+|B-|B|B+|A-|A|A+|
-
