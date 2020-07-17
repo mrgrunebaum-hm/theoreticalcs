@@ -13,7 +13,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
   4. [Iris Lab]({{site.baseurl}}/units/01/04/)
 
 ## Unit 2: Introduction to Data
-  1. [Data and its Limitations]({{site.baseurl}}/units/02/01/)
+  1. [Introduction to Data]({{site.baseurl}}/units/02/01/)
   2. [Different Types of Data]({{site.baseurl}}/units/02/02/)
   3. [Data Structures]({{site.baseurl}}/02/03/)
      1. QUIZ
