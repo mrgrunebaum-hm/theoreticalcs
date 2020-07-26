@@ -23,7 +23,7 @@ You may encounter some symbols. Here is what they mean: <br>
   2. [Introduction to Data]({{site.baseurl}}/units/02/01/)
   2. [How Data is Organized]({{site.baseurl}}/units/02/02/)
      2. QUIZ
-  2. [Stacks and Queues Lab]({{site.baseurl}}/units/02/03/)
+  2. [Postfix Calculator Lab]({{site.baseurl}}/units/02/03/)
 
 ## Unit 3: Gathering Data
   3. [Sampling a Population]({{site.baseurl}}/03/01)
