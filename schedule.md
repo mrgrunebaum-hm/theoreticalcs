@@ -26,11 +26,11 @@ You may encounter some symbols. Here is what they mean: <br>
   2. [Postfix Calculator Lab]({{site.baseurl}}/units/02/03/)
 
 ## Unit 3: Gathering Data
-  3. [Sampling a Population]({{site.baseurl}}/03/01)
-  3. [Conducting Experiments]({{site.baseurl}}/03/02)
+  3. [Designing a Study]({{site.baseurl}}/units/03/01)
+  3. [Conducting Experiments]({{site.baseurl}}/units/03/02)
      3. QUIZ
-  3. [Cleaning and Preparing Data]({{site.baseurl}}/03/03)
-  3. [LAB:]({{site.baseurl}}/03/04/)
+  3. [Cleaning and Preparing Data]({{site.baseurl}}/units/03/03)
+  3. [LAB:]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Descriptive Statistics
   4. [Introduction to Descriptive Statistics]({{site.baseurl}}/units/04/01/)
