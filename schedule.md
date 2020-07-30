@@ -5,7 +5,6 @@ title: Schedule
 # Schedule
 This schedule will be accurate up until the end of the current subunit. Anything after that may be changed at my discretion. You are certainly free to work ahead; just be mindful if things do end up changing.
 
-
 <div class="Legend">
 You may encounter some symbols. Here is what they mean: <br>
 🞛: key concepts you should be familiar with<br>
@@ -33,7 +32,7 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [LAB:]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Descriptive Statistics
-  4. [Introduction to Descriptive Statistics]({{site.baseurl}}/units/04/01/)
+  4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
   4. [Measuring Center and Variability]({{site.baseurl}}/units/04/02/)
      4. QUIZ
   4. [Using Python to Obtain Numbers]({{site.baseurl}}/units/04/03/)
@@ -48,9 +47,9 @@ You may encounter some symbols. Here is what they mean: <br>
   5. [LAB]({{site.baseurl}}/units/05/05/)
 
 ## Unit 6: Inferential Statistics
-  6. [Introduction to Inferential Statistics and its Limitations]({{site.baseurl}}/units/06/01/)
+  6. [Inferential Statistics and Limitations]({{site.baseurl}}/units/06/01/)
   6. [Hypothesis Testing and Statistical Confidence]({{site.baseurl}}/units/06/02/)
-  6. [Obtaining and Interpreting Inferential Statistics]({{site.baseurl}}/units/06/03)
+  6. [Communicating Inferential Statistics]({{site.baseurl}}/units/06/03)
   6. [LAB]({{site.baseurl}}/units/06/04/)
 
 ## Final Project
