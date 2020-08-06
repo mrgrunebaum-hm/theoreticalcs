@@ -29,7 +29,7 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Conducting Experiments]({{site.baseurl}}/units/03/02)
      3. QUIZ
   3. [Cleaning and Preparing Data]({{site.baseurl}}/units/03/03)
-  3. [LAB:]({{site.baseurl}}/units/03/04/)
+  3. [Hospital Lab]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Descriptive Statistics
   4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
