@@ -14,7 +14,7 @@ You may encounter some symbols. Here is what they mean: <br>
 ## Unit 1: Getting Started
   1. [Setting up the Environment]({{site.baseurl}}/units/01/01/)
   1. [Terminal and Git]({{site.baseurl}}/units/01/02/)
-     1. QUIZ on Terminal, Git, Markdown
+     1. QUIZ
   1. [Python]({{site.baseurl}}/units/01/03/)
   1. [Iris Lab]({{site.baseurl}}/units/01/04/)
 
@@ -33,10 +33,8 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 4: Descriptive Statistics
   4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
-  4. [Measuring Center and Variability]({{site.baseurl}}/units/04/02/)
+  4. [Association]({{site.baseurl}}/units/04/03/)
      4. QUIZ
-  4. [Using Python to Obtain Numbers]({{site.baseurl}}/units/04/03/)
-  4. [Constructing Simple Graphs]({{site.baseurl}}/units/04/04/)
   4. [LAB]({{site.baseurl}}/units/04/05/)
 
 ## Unit 5: Data Visualization
