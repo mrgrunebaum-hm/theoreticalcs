@@ -33,9 +33,9 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 4: Descriptive Statistics
   4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
-  4. [Association]({{site.baseurl}}/units/04/03/)
+  4. [Describing Relationships]({{site.baseurl}}/units/04/02/)
      4. QUIZ
-  4. [LAB]({{site.baseurl}}/units/04/05/)
+  4. [LAB]({{site.baseurl}}/units/04/03/)
 
 ## Unit 5: Data Visualization
   5. [Human Perception and Color Theory]({{site.baseurl}}/units/05/01/)
