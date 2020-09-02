@@ -7,7 +7,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
 
 <div class="Legend">
 You may encounter some symbols. Here is what they mean: <br>
-🞛: key concepts you should be familiar with<br>
+⊕: key concepts you should be familiar with<br>
 ▲: additional links to check out
 </div>
 
