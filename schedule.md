@@ -27,9 +27,10 @@ You may encounter some symbols. Here is what they mean: <br>
 ## Unit 3: Gathering Data
   3. [Designing a Study]({{site.baseurl}}/units/03/01)
   3. [Conducting Experiments]({{site.baseurl}}/units/03/02)
-     3. QUIZ
   3. [Cleaning and Preparing Data]({{site.baseurl}}/units/03/03)
-  3. [Hospital Lab]({{site.baseurl}}/units/03/04/)
+     3. QUIZ
+  3. [Using APIs]({{site.baseurl}}/units/03/04/)
+  3. [Hospital Lab]({{site.baseurl}}/units/03/05/)
 
 ## Unit 4: Descriptive Statistics
   4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
