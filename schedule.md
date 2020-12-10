@@ -29,25 +29,35 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Conducting Experiments]({{site.baseurl}}/units/03/02)
   3. [Cleaning and Preparing Data]({{site.baseurl}}/units/03/03)
   3. [Using APIs]({{site.baseurl}}/units/03/04/)
+      3. QUIZ
   3. [Hospital Lab]({{site.baseurl}}/units/03/05/)
 
 ## Unit 4: Descriptive Statistics
-  4. [Descriptive Statistics and Limitations]({{site.baseurl}}/units/04/01/)
+  4. [Introduction to Descriptive Statistics]({{site.baseurl}}/units/04/01/)
   4. [Describing Relationships]({{site.baseurl}}/units/04/02/)
      4. QUIZ
-  4. [LAB]({{site.baseurl}}/units/04/03/)
+  4. [Basic Visualizations]({{site.baseurl}}/units/04/03)
+  4. [LAB]({{site.baseurl}}/units/04/04/)
 
 ## Unit 5: Data Visualization
   5. [Human Perception and Color Theory]({{site.baseurl}}/units/05/01/)
   5. [Visualizing Different Types of Data]({{site.baseurl}}/units/05/02/)
   5. [Evaluating Visualizations]({{site.baseurl}}/units/05/03/)
+      5. QUIZ
   5. [Creating Visualizations]({{site.baseurl}}/units/05/04)
   5. [LAB]({{site.baseurl}}/units/05/05/)
 
-## Unit 6: Inferential Statistics
-  6. [Inferential Statistics and Limitations]({{site.baseurl}}/units/06/01/)
-  6. [Hypothesis Testing and Statistical Confidence]({{site.baseurl}}/units/06/02/)
-  6. [Communicating Inferential Statistics]({{site.baseurl}}/units/06/03)
+## Unit 6: Probability and Distributions
+  6. [Introduction to Probability]({{site.baseurl}}/units/06/01/)
+  6. [Probability Distributions]({{site.baseurl}}/units/06/02/)
+      6. QUIZ
+  6. [Sampling Distributions]({{site.baseurl}}/units/06/03/)
   6. [LAB]({{site.baseurl}}/units/06/04/)
+
+## Unit 7: Inferential Statistics
+  7. [Inferential Statistics and Limitations]({{site.baseurl}}/units/07/01/)
+  7. [Hypothesis Testing and Statistical Confidence]({{site.baseurl}}/units/07/02/)
+  7. [Communicating Inferential Statistics]({{site.baseurl}}/units/07/03)
+  7. [LAB]({{site.baseurl}}/units/07/04/)
 
 ## Final Project
