@@ -42,10 +42,9 @@ You may encounter some symbols. Here is what they mean: <br>
 ## Unit 5: Data Visualization
   5. [Visual Perception]({{site.baseurl}}/units/05/01/)
   5. [Visualizing Data]({{site.baseurl}}/units/05/02/)
-  5. [Evaluating Visualizations]({{site.baseurl}}/units/05/03/)
       5. QUIZ
-  5. [Creating Visualizations]({{site.baseurl}}/units/05/04)
-  5. [LAB]({{site.baseurl}}/units/05/05/)
+  5. [Creating Visualizations]({{site.baseurl}}/units/05/03)
+  5. [LAB]({{site.baseurl}}/units/05/04/)
 
 ## Unit 6: Probability and Distributions
   6. [Introduction to Probability]({{site.baseurl}}/units/06/01/)
