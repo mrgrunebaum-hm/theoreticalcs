@@ -37,26 +37,26 @@ You may encounter some symbols. Here is what they mean: <br>
   4. [Describing Relationships]({{site.baseurl}}/units/04/02/)
      4. QUIZ
   4. [Basic Visualizations]({{site.baseurl}}/units/04/03)
-  4. [LAB]({{site.baseurl}}/units/04/04/)
+  4. [Lab 4]({{site.baseurl}}/units/04/04/)
 
 ## Unit 5: Data Visualization
   5. [Visual Perception]({{site.baseurl}}/units/05/01/)
   5. [Visualizing Data]({{site.baseurl}}/units/05/02/)
       5. QUIZ
   5. [Creating Visualizations]({{site.baseurl}}/units/05/03)
-  5. [LAB]({{site.baseurl}}/units/05/04/)
+  5. [Lab 5]({{site.baseurl}}/units/05/04/)
 
 ## Unit 6: Probability and Distributions
   6. [Introduction to Probability]({{site.baseurl}}/units/06/01/)
   6. [Probability Distributions]({{site.baseurl}}/units/06/02/)
       6. QUIZ
   6. [Sampling Distributions]({{site.baseurl}}/units/06/03/)
-  6. [LAB]({{site.baseurl}}/units/06/04/)
+  6. [Lab 6]({{site.baseurl}}/units/06/04/)
 
 ## Unit 7: Inferential Statistics
   7. [Inferential Statistics and Limitations]({{site.baseurl}}/units/07/01/)
   7. [Hypothesis Testing and Statistical Confidence]({{site.baseurl}}/units/07/02/)
   7. [Communicating Inferential Statistics]({{site.baseurl}}/units/07/03)
-  7. [LAB]({{site.baseurl}}/units/07/04/)
+  7. [Lab 7]({{site.baseurl}}/units/07/04/)
 
 ## Final Project
