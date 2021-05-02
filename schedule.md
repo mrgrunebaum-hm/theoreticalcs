@@ -48,15 +48,11 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 6: Probability and Distributions
   6. [Introduction to Probability]({{site.baseurl}}/units/06/01/)
-  6. [Probability Distributions]({{site.baseurl}}/units/06/02/)
-      6. QUIZ
+  6. [Random Variables and Probability Distributions]({{site.baseurl}}/units/06/02/)
   6. [Sampling Distributions]({{site.baseurl}}/units/06/03/)
-  6. [Lab 6]({{site.baseurl}}/units/06/04/)
+      6. QUIZ
 
 ## Unit 7: Inferential Statistics
-  7. [Inferential Statistics and Limitations]({{site.baseurl}}/units/07/01/)
-  7. [Hypothesis Testing and Statistical Confidence]({{site.baseurl}}/units/07/02/)
-  7. [Communicating Inferential Statistics]({{site.baseurl}}/units/07/03)
-  7. [Lab 7]({{site.baseurl}}/units/07/04/)
-
-## Final Project
+  7. [Statistical Confidence]({{site.baseurl}}/units/07/01)
+  7. [Hypothesis Testing]({{site.baseurl}}/units/07/02/)
+  7. [Final Lab]({{site.baseurl}}/units/07/03/)
