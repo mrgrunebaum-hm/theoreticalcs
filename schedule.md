@@ -53,6 +53,6 @@ You may encounter some symbols. Here is what they mean: <br>
       6. QUIZ
 
 ## Unit 7: Inferential Statistics
-  7. [Statistical Confidence]({{site.baseurl}}/units/07/01)
+  7. [Confidence Intervals]({{site.baseurl}}/units/07/01)
   7. [Hypothesis Testing]({{site.baseurl}}/units/07/02/)
   7. [Final Lab]({{site.baseurl}}/units/07/03/)
