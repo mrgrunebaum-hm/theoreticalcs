@@ -16,13 +16,13 @@ You may encounter some symbols. Here is what they mean: <br>
   1. [Terminal and Git]({{site.baseurl}}/units/01/02/)
      1. QUIZ
   1. [Python]({{site.baseurl}}/units/01/03/)
-  1. [Iris Lab]({{site.baseurl}}/units/01/04/)
+  1. [Lab 1]({{site.baseurl}}/units/01/04/)
 
 ## Unit 2: Introduction to Data
   2. [Introduction to Data]({{site.baseurl}}/units/02/01/)
   2. [How Data is Organized]({{site.baseurl}}/units/02/02/)
      2. QUIZ
-  2. [Postfix Calculator Lab]({{site.baseurl}}/units/02/03/)
+  2. [Lab 2]({{site.baseurl}}/units/02/03/)
 
 ## Unit 3: Gathering Data
   3. [Designing a Study]({{site.baseurl}}/units/03/01)
@@ -30,7 +30,7 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Cleaning and Preparing Data]({{site.baseurl}}/units/03/03)
   3. [Using APIs]({{site.baseurl}}/units/03/04/)
       3. QUIZ
-  3. [Hospital Lab]({{site.baseurl}}/units/03/05/)
+  3. [Lab 3]({{site.baseurl}}/units/03/05/)
 
 ## Unit 4: Descriptive Statistics
   4. [Introduction to Descriptive Statistics]({{site.baseurl}}/units/04/01/)
