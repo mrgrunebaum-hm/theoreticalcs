@@ -1,5 +1,4 @@
-# Intermediate CS
+# Theoretical CS
+**Theoretical Computer Science** provides students with an overview of the theoretical underpinnings of computer science, as well as the skills necessary to pursue further research on their own. This course focuses on how  abstractions of real-world situations lead to algorithms and mathematical proofs of correctness and efficiency. Students gain a nuanced understanding of the questions “What is a computer, and what can it do?” through the study of theoretical models of computing. Readings provide insight into the image of computer science in broader contexts, including current events articles, science fiction, and research publications.
 
-**Intermediate CS** builds on foundational programming concepts covered in the introductory classes. This course prepares students to quickly and confidently translate their programming skills from one language to another. Students will also learn how to design and organize complex programming projects. Topics include using the terminal, object oriented programming techniques, functional programming techniques, and data structures. Readings explore the socio-political impacts of technology on the world. This course is taught in Scala.
-
-The course website can be found [here](https://lee-edu.github.io/intermediatecs).
+The course website can be found [here](https://lee-edu.github.io/theoreticalcs).
