@@ -24,8 +24,8 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 3: Algorithms
   3. [Time and Space Complexity]({{site.baseurl}}/units/03/01)
-     3. Quiz
   3. [Recursion and Induction]({{site.baseurl}}/units/03/02)
+     3. Quiz
   3. [Searching and Sorting]({{site.baseurl}}/units/03/03)
   3. [Lab 3]({{site.baseurl}}/units/03/04)
 
