@@ -3,7 +3,7 @@ layout: base
 title: Schedule
 ---
 # Schedule
-This schedule will be accurate up until the end of the current subunit. Anything after that may be changed at my discretion. You are certainly free to work ahead; just be mindful if things do end up changing.
+The schedule and assignments may be changed until officially covered in class. You are certainly free to work ahead; just be mindful if things do end up changing!
 
 <div class="Legend">
 You may encounter some symbols. Here is what they mean: <br>
