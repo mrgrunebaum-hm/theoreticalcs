@@ -26,8 +26,5 @@ Any submitted work by a student should be their own, unless students are collabo
 Any form of cheating will result in a **failing grade** and the student’s advisor will be notified for the first offense. Any subsequent offense will result in the student being asked to speak with their class dean. Forms of cheating include but are not limited to: similar / identical code submitted, solutions submitted that are not a student’s own work.
 
 # Semester Grade
-  - Homework: 40%
-  - Labs: 20%
-  - Quizzes: 15%
-  - Participation: 15%
-  - Discussions: 10%
+  - Assessments (labs, tests, quizzes): 90%
+  - Discussions: 20%
