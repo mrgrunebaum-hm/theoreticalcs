@@ -9,7 +9,7 @@ variable = "Notice that variables can be reassigned"
 
 /*
   1. What is the error with the following line of code?
-  Comment out the line afterward.
+  Once you've written your answer, comment out the line of code and save the file.
 */
 variable = 3
 
@@ -17,7 +17,7 @@ val variable2 = "Declaring an immutable string variable"
 
 /*
   2. What is the error with the following line of code?
-  Comment out the line afterward.
+  Once you've written your answer, comment out the line of code and save the file.
 */
 variable2 = "What happens if we try to reassign a value?"
 
