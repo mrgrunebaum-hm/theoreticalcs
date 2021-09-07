@@ -22,7 +22,9 @@ We will often have quiz retakes as a class, but individual retakes are also an o
 Lab revisions are handled on a case-by-case basis.
 
 ### Lab Submissions
-Labs will always be submitted on Google Classroom as Scala files. Most of your labs will be saved as Scala Worksheets (file extension ```.worksheet.sc```). For all labs, we will follow the naming convention ```yourLastnameLab1.worksheet.sc``` unless you are specifically told otherwise. Of course, replace 'yourLastname' with your actual last name and replace 'Lab1' with whichever number lab it is.
+Labs will always be submitted on Google Classroom as Scala files. Most of your labs will be saved as Scala Worksheets (file extension ```.worksheet.sc```). 
+
+For all labs, we will follow the naming convention ```yourLastnameLab1.worksheet.sc``` unless you are specifically told otherwise. Of course, replace 'yourLastname' with your actual last name and replace 'Lab1' with whichever number lab it is.
 
 # Academic Honesty
 Any submitted work by a student should be their own, unless students are collaborating on a group assignment, in which case the work submitted should be a reflection of equal effort of all students involved. Collaboration is always encouraged – feel free to talk with other students and work through material! However, any work turned in must be your own and students must always **cite** who they worked with on final submissions of assignments.
