@@ -3,13 +3,15 @@ layout: base
 title: Syllabus
 ---
 # Assignments
-Homework is meant for you to learn and practice, and should be a space where you make mistakes (because you are learning new material)! It's absolutely okay for you to be stuck on the homework. Class time is meant to help you work through these obstacles! Students will be asked to present their solutions in front of the class, and will have the opportunity to field questions and suggestions from classmates. Thus, it is crucial that you come to class prepared. At the end of each week, a homework question will be chosen for you to write a formal solution to.
+Homework is meant for you to learn and practice, and should be a space where you make mistakes (because you are learning new material)! It's absolutely okay for you to be stuck on the homework. Class time is meant to help you work through these obstacles! Students will sometimes be asked to present their solutions in front of the class, and will have the opportunity to field questions and suggestions from classmates. Thus, it is crucial that you come to class prepared.
 
 # Participation
-Since so much of this course involves groupwork and collaborating with others to learn new material, it is important that each student actively participates. Participation can mean showing up to class on time, asking questions in class, answering other students' questions, coming to office hours, working with classmates, contributing to a class discussion, or many other things. Part of my job is to help you learn and hone your learning styles – how you best engage with our material in _Theoretical_ and how you feel most confident and comfortable participating in the classroom. This will be something we will discuss this year both as a class and on an individual basis.
+Since so much of this course involves groupwork and collaborating with others to learn new material, it is important that each student actively participates. Participation can mean showing up to class on time, asking questions in class, answering other students' questions, coming to office hours, working with classmates, contributing to a class discussion, or many other things. 
+
+Part of my job is to help you learn and hone your learning styles – how you best engage with our material in _Theoretical_ and how you feel most confident and comfortable participating in the classroom. This is something we will discuss this year both as a class and on an individual basis.
 
 # Discussions
-We will regularly discuss and analyze topical readings and other relevant media to supplement the course material. Each reading will include a written response, as well as participation in an in-class discussion. These are graded on a completion basis.
+We will regularly discuss and analyze topical readings and other relevant media alongside the technical and mathematical course material. Each reading will include a written response, as well as participation in an in-class discussion. These are graded on a completion basis.
 
 # Assessments
 Quizzes will only ever cover what you have done for homework, and what we have done together in class.
