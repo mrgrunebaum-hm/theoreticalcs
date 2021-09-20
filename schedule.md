@@ -13,7 +13,8 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 1: Getting Started
   1. [Setting up the Environment]({{site.baseurl}}/units/01/01)
-  1. [Taste of Scala]({{site.baseurl}}/units/01/02)
+  1. [LaTeX for Proofs]({{site.baseurl}}/units/01/02)
+  1. [Taste of Scala]({{site.baseurl}}/units/01/03)
      1. Warm Ups / Review
 
 ## Unit 2: Data Structures
