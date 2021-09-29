@@ -5,7 +5,7 @@ title: Readings
 # Readings
 We will be reading the following works in this course. This list is subject to change.
 
-  - The Library of Babel by Jorge Luis Borges
+  - [The Library of Babel](/Borges-The-Library-of-Babel.pdf) by Jorge Luis Borges
   - The Circle by Liu Cixin, translated by Ken Liu (from *Invisible Planets*)
   - from *Exhalation: Stories* by Ted Chiang
      - Exhalation
